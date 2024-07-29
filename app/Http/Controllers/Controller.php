@@ -2,7 +2,22 @@
 
 namespace App\Http\Controllers;
 
-abstract class Controller
+abstract class HomeController
+{
+    //
+}
+
+abstract class ProductController
+{
+    //
+}
+
+abstract class ProductController
+{
+    //
+}
+
+abstract class CartController
 {
     //
 }
